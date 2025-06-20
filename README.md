@@ -6,6 +6,8 @@ I no longer have the time to continue developing the app.<br>
 Anyone who wants to use or optimize this app is welcome to do so.<br>
 If anyone optimizes and publishes this app, please include me as a co-creator under <i>P A G O O K</i> and let me know where it was published.
 
+The app was written in Pythen and Kivy.
+
 Screenshots:
 
 ![1](https://github.com/user-attachments/assets/052e5188-bae9-42fd-88aa-ea5966f0463e)
